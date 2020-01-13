@@ -2,4 +2,18 @@
   "name": "ci",
   "version": "0.0.1",
   "description": "@webboot corporate identity package.",
+  "private": true,
+  "author": "Wizards & Witches @ Webboot DAO",
+  "homepage": "https://webboot.github.io",
+  "license": "AGPL-3.0",
+    "contributors": [
+    {
+      "name": "jascha ehrenreich",
+      "github": "jaeh"
+    },
+    {
+      "name": "michael parenti",
+      "github": "exiledsurfer"
+    }
+  ]
 }
